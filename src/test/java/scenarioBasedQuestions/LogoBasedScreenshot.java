@@ -30,6 +30,8 @@ public class LogoBasedScreenshot {
 		Files.copy(src, dest);
 		
 		driver.close();
+		
+		System.out.println("END OF PROGRAMME")
 
 	}
 
