@@ -31,7 +31,7 @@ public class LogoBasedScreenshot {
 		
 		driver.close();
 		
-		System.out.println("END OF PROGRAMME")
+		System.out.println("END OF PROGRAMME");
 
 	}
 
